@@ -1,1 +1,1 @@
-#move to [cnxd](https://github.com/8cAyqpVKio/cnxd)
+# move ComittoNxA to [cnxd](https://github.com/8cAyqpVKio/cnxd)
